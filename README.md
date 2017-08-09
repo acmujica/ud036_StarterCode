@@ -1,13 +1,16 @@
 # Japan's Theaters Now
 
 A simple website based off Udacity's Full Stack Nanodegree Fresh Tomatoes 
-website. Japan's Theaters Now is set-up to show the current playing movies as 
-well as movies being released in the near future. The goal is to automate the
-collection and serving of the movie data as much as possible.
+website. Japan's Theaters Now is set up to show the current playing movies as 
+well as movies being released in the near future. When a user clicks a poster
+they will see the trailer if it exists on themoviedb.org API and the 
+storyline of the film. The goal is to automate the collection and serving of 
+the movie data as much as possible.
 
 # Running the webpage
 
 To run this website download or clone all the contents in this folder.
+
     git clone REPOSITORY_URL
 
 To get the current data run API_calls.py from the command line. If you allow 
@@ -17,9 +20,11 @@ https://developers.themoviedb.org/3/getting-started and replace the variable
 THEMOVIEDB_API_KEY in the code. For convenience, I have uploaded some data 
 as of August 9th, 2017. If you do not want to sign up for an API Key you may 
 skip this step. The server data will not update in that case.
+
     python3 API_calls.py
 
 Then you can create the webpage html by running construct_site.py
+
     python3 construct_site.py
 
 # Potential Issues
