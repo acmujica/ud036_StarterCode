@@ -1,0 +1,25 @@
+{
+    "id": 434025,
+    "results": [
+        {
+            "id": "5872eb3d9251410e770046ff",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "TsEdf1bC-Wc",
+            "name": "Space Squad: Gavan VS DekaRanger Promo",
+            "site": "YouTube",
+            "size": 720,
+            "type": "Teaser"
+        },
+        {
+            "id": "58829c90925141045d0008c1",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "i5brtNR1IzA",
+            "name": "Space Squad: Gavan vs Dekaranger Trailer (English Subs)",
+            "site": "YouTube",
+            "size": 720,
+            "type": "Trailer"
+        }
+    ]
+}

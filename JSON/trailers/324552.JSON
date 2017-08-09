@@ -1,0 +1,85 @@
+{
+    "id": 324552,
+    "results": [
+        {
+            "id": "58bded9b9251413407006629",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "Wp3EE71PINI",
+            "name": "Official Clip \"Car Chase\"",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip"
+        },
+        {
+            "id": "58bdedb69251416084054f6a",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "bQN5U7DbJdk",
+            "name": "Official Pre-Game TV Spot \"Shade\"",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette"
+        },
+        {
+            "id": "58bded81925141126a03660d",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "nMqETeQrgqU",
+            "name": "Official Teaser Trailer \"Good To See You Again\"",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser"
+        },
+        {
+            "id": "58bdedcec3a36866a504f4cd",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "Ib21sMpp8yo",
+            "name": "Official Clip \"You Working\"",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip"
+        },
+        {
+            "id": "58cfce9ec3a36811ce004deb",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "y7pLCd7BgZA",
+            "name": "Official Clip \"Suited Up\"",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip"
+        },
+        {
+            "id": "58cfcec29251415a61037950",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "LZrX9mffH8Y",
+            "name": "Official Trailer 2",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        },
+        {
+            "id": "58cfcef19251415a61037976",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "ZABJ1bzrZvI",
+            "name": "Official Training Featurette [UK]",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette"
+        },
+        {
+            "id": "58cfcf2bc3a36851040330d8",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "Sx1Qm3gavRg",
+            "name": "Official Teaser Trailer",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        }
+    ]
+}

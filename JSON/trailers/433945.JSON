@@ -1,0 +1,25 @@
+{
+    "id": 433945,
+    "results": [
+        {
+            "id": "58ef1c519251414207007c19",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "MNmeiJJgKmM",
+            "name": "Teaser",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser"
+        },
+        {
+            "id": "59522f349251411dbd00029c",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "b6tINlquCKU",
+            "name": "Special Trailer",
+            "site": "YouTube",
+            "size": 720,
+            "type": "Trailer"
+        }
+    ]
+}

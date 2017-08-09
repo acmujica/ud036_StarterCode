@@ -1,0 +1,55 @@
+{
+    "id": 431572,
+    "results": [
+        {
+            "id": "58bded8a925141606b055695",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "f2_-AHg4tMA",
+            "name": "映画『ジョジョの奇妙な冒険 ダイヤモンドは砕けない 第一章』特報",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser"
+        },
+        {
+            "id": "585e74a892514115d300d2a2",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "wJCQnKe6mEQ",
+            "name": "映画『ジョジョの奇妙な冒険 ダイヤモンドは砕けない 第一章』特報",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser"
+        },
+        {
+            "id": "5901101ec3a36810e50022a9",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "MI2CXp0o_hs",
+            "name": "映画『ジョジョの奇妙な冒険 ダイヤモンドは砕けない 第一章』予告１【HD】2017年8月4日公開",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        },
+        {
+            "id": "59370fcdc3a3684c480029bf",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "FwMv9zt_hDA",
+            "name": "Trailer 2",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        },
+        {
+            "id": "5961364e9251410a590c1271",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "ezDHHez9qAA",
+            "name": "映画『ジョジョの奇妙な冒険 ダイヤモンドは砕けない 第一章』予告3【HD】2017年8月4日(金)公開",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        }
+    ]
+}

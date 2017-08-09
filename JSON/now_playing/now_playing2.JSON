@@ -1,0 +1,191 @@
+{
+    "dates": {
+        "maximum": "2017-08-14",
+        "minimum": "2017-06-30"
+    },
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 466384,
+            "original_language": "en",
+            "original_title": "Hello, Goodbye",
+            "overview": "Hazuki and Aoi are classmates but their relationship outside class is fraught, and outside school non-existent. But when both girls are drawn to helping an elderly woman, they're forced to interact, confronting their differences and similarities as well as their deepest secrets.",
+            "popularity": 1.322946,
+            "poster_path": null,
+            "release_date": "2017-07-15",
+            "title": "Hello, Goodbye",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 442842,
+            "original_language": "ja",
+            "original_title": "獣道",
+            "overview": "Born in a small town in Japan, a young girl named Ai is sent to a cult commune by her religious maniac mother and lives there for seven long years. After the cult is exposed by the police, Ai starts a new stage of life, going to a normal school for the first time, but she can’t find her place to fit in there. Ai drops out from the school and society, spending her life living with a rock-bottom delinquent family full of gangsters and call girls. In a strange twist of fate she finds herself back in a new and normal life, living with a middle-class family, but her troubled life continues to follow her into more deep and seedy paths.",
+            "popularity": 1.319605,
+            "poster_path": "/oZEy9TGfLKKrLS5CbmJz40pnVyd.jpg",
+            "release_date": "2017-07-15",
+            "title": "Love And Other Cults",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28
+            ],
+            "id": 461211,
+            "original_language": "ja",
+            "original_title": "忍びの国",
+            "overview": "Raised suckling poison arrows among the sparring Iga ninja factions, Mumon (Satoshi Ohno, of idol group Arashi) is a carefree 16th-century mercenary. When the ninja council makes a power play to defeat the young Nobukatsu Oda struggling to step into his father’s warlord shoes as they expand rule across the country, Mumon jumps into the fray to satisfy his new bride Okuni’s (Satomi Ishihara of Shin Godzilla, Attack on Titan) demand that he make good on his promises of wealth. Yet Mumon soon finds what is worth fighting for beyond money or nation. A longtime JAPAN CUTS favorite known for his offbeat dramas, Yoshihiro Nakamura (Fish Story, Golden Slumber) takes on the jidaigeki epic with his signature sense of play featuring a jazzy soundtrack and fantastical ninja tricks. -JAPAN CUTS: Festival of New Japanese Film",
+            "popularity": 1.316982,
+            "poster_path": "/8CvsL7KPaO2JbTKXNwYXhyFVNHP.jpg",
+            "release_date": "2017-07-01",
+            "title": "MUMON: The Land of Stealth",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                16
+            ],
+            "id": 460396,
+            "original_language": "ja",
+            "original_title": "劇場版 Free!-Timeless Medley- 約束",
+            "overview": "Second part of Free!: Timeless Medley",
+            "popularity": 1.296021,
+            "poster_path": "/nhjNiiCnt47SMdHhkVV4DfgRPJR.jpg",
+            "release_date": "2017-07-01",
+            "title": "Free!: Timeless Medley - Yakusoku",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8ziUgU09PJ7K1F432mJPlIitiBF.jpg",
+            "genre_ids": [],
+            "id": 461215,
+            "original_language": "ja",
+            "original_title": "アリーキャット",
+            "overview": "A depressed ex-boxer (Yosuke Kubozuka) self-medicating for the injuries that ended his career finds a stray cat that brightens his day, but she is snatched up by a comical grungy mechanic (Kenji Furuya). Calling each other by the competing names they gave the cat, Maru and Lily, the odd pair is abruptly sucked into a political conspiracy with Saeko (Yui Ichikawa) and her son at the center. Witnessing another injustice in which the economic and social elite prey on the vulnerable, the two strays set off on the road to redemption, or at least peaceful cat ownership. (Fun fact: in addition to acting together in Alley Cat, Yosuke Kubozuka and Kenji “KJ” Furuya released the single “Soul Ship” in 2017. Kubozuka performs as Manji Line and Furuya in the band Dragon Ash.) -JAPAN CUTS: Festival of New Japanese Film",
+            "popularity": 1.287243,
+            "poster_path": "/w3P68nCVTlEOPCKddYNjRIp8pLC.jpg",
+            "release_date": "2017-07-15",
+            "title": "Alley Cat",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35
+            ],
+            "id": 463667,
+            "original_language": "en",
+            "original_title": "Luntiang Paraiso",
+            "overview": "Benjo starts a carnal relationship with a tree. His passion turns to anger when he sees his plant with another man.",
+            "popularity": 1.285054,
+            "poster_path": "/9IF7n7YkDm0vxeR92z7o9El5CQU.jpg",
+            "release_date": "2017-07-01",
+            "title": "Luntiang Paraiso",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pUrZukm4chtpldNvvKiezurqq5f.jpg",
+            "genre_ids": [],
+            "id": 460559,
+            "original_language": "ja",
+            "original_title": "世界は今日から君のもの",
+            "overview": "Mami rarely leaves home since she dropped out from middle school. She has been escaping reality by immersing herself in copying her favorite manga and illustrations in her room full of books and comics. Her father, Eisuke, worries a lot about her ever since he divorced with her mother, Mika.",
+            "popularity": 1.275915,
+            "poster_path": "/jNGArYOANjBeblsZAqbA0fUfvp.jpg",
+            "release_date": "2017-07-15",
+            "title": "Her Sketchbook",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                12,
+                16,
+                14
+            ],
+            "id": 468527,
+            "original_language": "en",
+            "original_title": "Soreike! Anpanman: Buruburu no takarasagashi daibouken!",
+            "overview": "Anpanman and friends help fraidy lion Buruburu locate some treasure.",
+            "popularity": 1.229338,
+            "poster_path": null,
+            "release_date": "2017-07-01",
+            "title": "Soreike! Anpanman: Buruburu no takarasagashi daibouken!",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 469282,
+            "original_language": "ja",
+            "original_title": "My Cactus",
+            "overview": "My Cactus is a film from writer/director Koto Nagata that tells the story of unrequited love between its two main characters.",
+            "popularity": 1.212503,
+            "poster_path": null,
+            "release_date": "2017-07-02",
+            "title": "My Cactus",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 465365,
+            "original_language": "en",
+            "original_title": "兄に愛されすぎて困ってます",
+            "overview": "Setoka Tachibana is a female high school student who has confessed her feelings to other boys 12 times, but has been rebuffed each time. Her older brother Haruka Tachibana cares for his younger sister deeply, but he keeps secret from her that they are not blood related. One day, Setoka's first love Takane Serikawa appears after many years and approaches her.",
+            "popularity": 1.106375,
+            "poster_path": "/vIp4xvFta6efRghhJzSJRpu657.jpg",
+            "release_date": "2017-06-30",
+            "title": "I Have Difficulty to Be Loved Too Much by Older Brother",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 30
+}

@@ -1,0 +1,65 @@
+{
+    "id": 315635,
+    "results": [
+        {
+            "id": "58f142879251415536004a66",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "rk-dF1lIbIg",
+            "name": "Official Trailer",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        },
+        {
+            "id": "58f142cd9251415556004851",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "DiTECkLZ8HM",
+            "name": "Official Trailer #2",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        },
+        {
+            "id": "58f1430ac3a3681a52004703",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "xpu9yRO_rvU",
+            "name": "Official International Trailer #2",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        },
+        {
+            "id": "58f14331c3a36819db004235",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "lCkVr1n1eCA",
+            "name": "Official International Trailer",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        },
+        {
+            "id": "592540c4c3a36877bc00dacd",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "xEvV3OsE2WM",
+            "name": "Official Trailer #3",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette"
+        },
+        {
+            "id": "5925cde9c3a36877bc014de4",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "xbQdPBiF3Co",
+            "name": "International Trailer #3",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 260514,
+    "results": [
+        {
+            "id": "58bde95c925141343500643b",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "E4K7JgPJ8-s",
+            "name": "Official US Teaser Trailer",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer"
+        },
+        {
+            "id": "58bde995c3a3680db10064fa",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "U1eQYk74R1g",
+            "name": "Lightning Strikes",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser"
+        },
+        {
+            "id": "58bde9b89251413435006471",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "lAsX0wquewk",
+            "name": "Meet Cruz Ramirez",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette"
+        },
+        {
+            "id": "58bde9e3c3a368664d0522c1",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "key": "4sSWhfRFJQ0",
+            "name": "Lightning McQueen",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette"
+        }
+    ]
+}
