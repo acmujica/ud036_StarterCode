@@ -29,8 +29,14 @@ now_playing_posters = []
 now_playing_ids = []
 now_playing_trailer_url = []
 
-def find_trailer(movie_id):
-    for objects in trailers:
+def find_trailer(movie_id, file):
+    """ This function searches a json file for the youtube link of the trailer.
+
+    Arguments:
+    movie_id - [array] - array of integers corresponding to movie ids
+        file - [json]  - a json file with information on movie trailers.
+    """
+    for objects in file:
         if(objects['results']): # Checks to make sure results is not empty
             if(objects['id']==movie_id):
                 youtube_url="https://www.youtube.com/watch?v=" + objects['results'][0]['key'] # NOQA
@@ -48,7 +54,7 @@ for objects in upcoming:
         else:
             upcoming_posters.append('./unavailable.png')
         movie_id=results['id']
-        trailer_url=find_trailer(movie_id)
+        trailer_url=find_trailer(movie_id, trailers)
         upcoming_trailer_url.append(trailer_url)
 
 
@@ -68,7 +74,7 @@ for objects in now_playing:
             else:
                 upcoming_posters.append('./unavailable.png')
             movie_id=results['id']
-            trailer_url=find_trailer(movie_id)
+            trailer_url=find_trailer(movie_id, trailers)
             upcoming_trailer_url.append(trailer_url)
         else:
             now_playing_titles.append(results['title'])
@@ -80,7 +86,7 @@ for objects in now_playing:
             else:
                 now_playing_posters.append('./unavailable.png')
             movie_id=results['id']
-            trailer_url=find_trailer(movie_id)
+            trailer_url=find_trailer(movie_id, trailers)
             now_playing_trailer_url.append(trailer_url)
 
 
@@ -109,4 +115,7 @@ all_movie_objects = []
 all_movie_objects.extend(upcoming_movie_objects)
 all_movie_objects.extend(now_playing_movie_objects)
 
+# fresh_tomatoes.py takes in a list of media.Movie objects and generates html 
+# code to be delivered. The website is also automatically opened in the 
+# browser.
 fresh_tomatoes.open_movies_page(all_movie_objects)

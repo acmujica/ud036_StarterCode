@@ -73,6 +73,8 @@ def themoviedb_now_playing():
     directory = "./JSON/now_playing/"
     os.makedirs(directory, exist_ok=True)
     response, results = h.request(request_url, 'GET')
+
+    # Verify the API Call was completed successfully
     if(response['status'] == '200'):
         str_results = str(results, 'utf8')
         json_results = json.loads(str_results)
@@ -95,9 +97,10 @@ def themoviedb_trailer_search(movie_id_array, directory):
     Send and API request to themoviedb.org for each movie id in the given 
     movie_id_array
     Arguments: 
-    movie_id_array - [array] movie id's as given by themoviedb.org search API or
-                             movie API
-    directory - [string] directory of where to save the results with trailing /
+    movie_id_array -  [list]  - movie id's as given by themoviedb.org search API or
+                                movie API
+         directory - [string] - directory of where to save the results with 
+                                trailing /
     """
     os.makedirs(directory, exist_ok=True)
     for movies in movie_id_array:
@@ -114,8 +117,8 @@ def combine_results(directory, file_name):
     Loads and saves all the results from JSON files in a directory into a new 
     JSON file. This file is named as file_name.JSON
     Arguments:
-    directory - [string] directory that contains JSON files to combine.
-    file_name - [string] desired file_name in format FILENAME.JSON
+    directory - [string] - directory that contains JSON files to combine.
+    file_name - [string] - desired file_name in format FILENAME.JSON
     """
     output=[]
     os.makedirs(directory+"/output/", exist_ok=True)
@@ -133,8 +136,9 @@ def get_movie_ids(directory,file_name):
     After having some results from themoviedb_upcoming() or 
     themoviedb_now_playing() we use this to extract the movie ids.
     Arguments:
-    directory - [string] The directory of the json file with the results with trailing /.
-    file_name - [string] name of the json file.
+    directory - [string] - The directory of the json file with the results with 
+                           trailing /.
+    file_name - [string] - name of the json file.
     """
     movie_ids = []
     with open(directory+file_name) as file:
